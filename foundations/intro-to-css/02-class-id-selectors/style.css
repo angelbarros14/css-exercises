@@ -1,0 +1,19 @@
+.number {
+    background-color: #ffC0CB;
+    font-family: Verdana, sans-serif;
+}
+
+.one {
+    font-size: 60px;;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
